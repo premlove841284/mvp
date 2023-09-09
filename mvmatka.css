@@ -1,0 +1,129 @@
+body{
+    outline: 2px solid #2980b9;
+    
+        background-color: black;
+        color: white;
+        font-style: italic;
+        font-family: times new roman;
+    
+}
+
+*{
+    text-align: center;
+}
+
+div{
+    display:block;
+}
+
+.websidename{
+    color:rgb(50, 50, 174);
+}
+
+.name{
+    color:red;
+    font-size: 50px;
+    margin-top: 2px;
+    margin-bottom:2px;
+}
+
+.marathiname{
+    font-size: 20px;
+    color: rgb(119, 7, 7);
+    padding-top: 2px;
+    margin-top :2px;
+    margin-left:225px;
+    
+}
+
+
+  
+
+/* .head1{
+    color:#434142;
+    font-size:14px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    padding: 3px;
+    margin:3px 0px;
+
+} */
+.head1{ 
+background-color: mintcream;
+    color: #434142;
+    border-width: 3px;
+    border-color: magenta;
+    border-style: inset;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding: 3px;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.todayluckynumber{
+background-color: #FAE6E9;
+color: black;
+font-weight: bold;
+font-size: 21px;
+font-family: 'Open Sans', sans-serif;
+border: orange solid 3px;
+margin-bottom: 5px;
+text-shadow: 1px 1px rgb(216, 185, 71);
+border-radius: 4px;
+text-align: center;
+font-style: italic;
+padding: 1px;
+}
+
+.todayluckynumber1{
+    background-color: #3a95e4;
+    color: black;
+    font-weight: bold;
+    font-size: 21px;
+    font-family: 'Open Sans', sans-serif;
+    border: rgb(210, 190, 64) solid 3px;
+    margin: 5px;
+    text-shadow: 1px 1px rgb(216, 185, 71);
+    border-radius: 4px;
+    text-align: center;
+    font-style: italic;
+    padding: 1px;
+    }
+    
+.numberborder{
+    border:3px solid brown;
+    padding-top:7px;
+    padding-bottom:10px;
+    padding-left:2px;
+    padding-right:2px;
+    margin-top:5px;
+}
+
+.result2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.result{
+    background-color:rgb(251, 255, 6);
+    border:5px solid rgb(192, 47, 141);
+    margin-top:5px;
+    border: radius 3px;
+}
+
+.timepc{
+    font-size: 15px;
+    padding: 2px 0;
+    margin-top: 2px;
+    margin-bottom: 0;
+    color: #000;
+    text-shadow: 1px 1px 2px #ffd9d9;
+    display:flex;
+    justify-content: space-around;
+    font-size: 30px;
+    height: 100px;
+}
